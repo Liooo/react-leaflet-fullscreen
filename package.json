@@ -19,9 +19,10 @@
   "author": "Vital Kr <kr.vital@gmail.com> (http://krvital.pro/)",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^15.2.x",
-    "react-dom": "^15.2.x",
-    "react-leaflet": "^0.12.x"
+    "react": "16.x",
+    "react-dom": "^16.x",
+    "react-leaflet": "1.x",
+    "react-proptypes": "^1.0.0"
   },
   "dependencies": {
     "leaflet.fullscreen": "^1.4.x"
